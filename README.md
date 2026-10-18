@@ -5,6 +5,12 @@
 [Emby 点击导入SenPlayer](https://aaronaevum.github.io/loon/senplayer_import.html?iconset=https://raw.githubusercontent.com/aaronaevum/loon/refs/heads/main/emby.json)<br><br>
 [AV_Photo 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fav_photo.json)<br><br>
 [机场 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fjichang.json)<br><br>
+[APP图标CN 144PX 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fapp_icons%2Fcn144px.json)<br><br>
+[APP图标CN 512PX 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fapp_icons%2Fcn512px.json)<br><br>
+[APP图标CN 1024PX 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fapp_icons%2Fcn1024px.json)<br><br>
+[APP图标OS 144PX 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fapp_icons%2Fos144px.json)<br><br>
+[APP图标OS 512PX 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fapp_icons%2Fos512px.json)<br><br>
+[APP图标OS 1024PX 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fapp_icons%2Fos1024px.json)<br><br>
 [国旗 144PX 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fflags%2F144px.json)<br><br>
 [国旗 512PX 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fflags%2F512px.json)<br><br>
 [国旗 1024PX 点击导入Loon](https://www.nsloon.com/openloon/import?iconset=https%3A%2F%2Fraw.githubusercontent.com%2Faaronaevum%2Floon%2Frefs%2Fheads%2Fmain%2Fflags%2F1024px.json)
