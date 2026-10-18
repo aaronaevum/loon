@@ -1,0 +1,754 @@
+{
+  "name": "cn512px",
+  "description": "cn512px 图标合集，共 187 个",
+  "icons": [
+    {
+      "name": "1Aaron",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/1Aaron.png"
+    },
+    {
+      "name": "1alaia",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/1alaia.png"
+    },
+    {
+      "name": "Agricultural Bank of China",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Agricultural%20Bank%20of%20China.png"
+    },
+    {
+      "name": "Air China",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Air%20China.png"
+    },
+    {
+      "name": "支付宝 Alipay",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Alipay.png"
+    },
+    {
+      "name": "Aliyun Drive",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Aliyun%20Drive.png"
+    },
+    {
+      "name": "高德地图 Amap",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Amap.png"
+    },
+    {
+      "name": "Anipop",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Anipop.png"
+    },
+    {
+      "name": "Anjuke",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Anjuke.png"
+    },
+    {
+      "name": "Arknights",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Arknights.png"
+    },
+    {
+      "name": "Autohome",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Autohome.png"
+    },
+    {
+      "name": "Baicizhan",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Baicizhan.png"
+    },
+    {
+      "name": "Baidu Input",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Baidu%20Input.png"
+    },
+    {
+      "name": "百度地图 Baidu Maps",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Baidu%20Maps.png"
+    },
+    {
+      "name": "百度网盘 Baidu Netdisk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Baidu%20Netdisk.png"
+    },
+    {
+      "name": "Baidu Tieba",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Baidu%20Tieba.png"
+    },
+    {
+      "name": "Bank of China",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Bank%20of%20China.png"
+    },
+    {
+      "name": "Bank of Communications",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Bank%20of%20Communications.png"
+    },
+    {
+      "name": "Battle of Balls",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Battle%20of%20Balls.png"
+    },
+    {
+      "name": "Beike",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Beike.png"
+    },
+    {
+      "name": "哔哩哔哩 Bilibili",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Bilibili.png"
+    },
+    {
+      "name": "Boohee",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Boohee.png"
+    },
+    {
+      "name": "Bubeidanci",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Bubeidanci.png"
+    },
+    {
+      "name": "CamScanner",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/CamScanner.png"
+    },
+    {
+      "name": "Cao Cao Mobility",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Cao%20Cao%20Mobility.png"
+    },
+    {
+      "name": "CapCut",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/CapCut.png"
+    },
+    {
+      "name": "Carrot Fantasy 4",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Carrot%20Fantasy%204.png"
+    },
+    {
+      "name": "CCTV News",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/CCTV%20News.png"
+    },
+    {
+      "name": "CCTV Video",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/CCTV%20Video.png"
+    },
+    {
+      "name": "China Broadnet",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/China%20Broadnet.png"
+    },
+    {
+      "name": "China Construction Bank",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/China%20Construction%20Bank.png"
+    },
+    {
+      "name": "China Eastern Airlines",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/China%20Eastern%20Airlines.png"
+    },
+    {
+      "name": "China Merchants Bank",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/China%20Merchants%20Bank.png"
+    },
+    {
+      "name": "中国移动 China Mobile",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/China%20Mobile.png"
+    },
+    {
+      "name": "China Mobile Cloud Drive",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/China%20Mobile%20Cloud%20Drive.png"
+    },
+    {
+      "name": "China Mobile He Caiyun",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/China%20Mobile%20He%20Caiyun.png"
+    },
+    {
+      "name": "China Railway 12306",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/China%20Railway%2012306.png"
+    },
+    {
+      "name": "China Southern Airlines",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/China%20Southern%20Airlines.png"
+    },
+    {
+      "name": "中国电信 China Telecom",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/China%20Telecom.png"
+    },
+    {
+      "name": "中国联通 China Unicom",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/China%20Unicom.png"
+    },
+    {
+      "name": "Chinese University MOOC",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Chinese%20University%20MOOC.png"
+    },
+    {
+      "name": "CHSI",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/CHSI.png"
+    },
+    {
+      "name": "CrossFire Mobile",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/CrossFire%20Mobile.png"
+    },
+    {
+      "name": "Dandanbuyu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Dandanbuyu.png"
+    },
+    {
+      "name": "Dazhihui",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Dazhihui.png"
+    },
+    {
+      "name": "Dejian Changting",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Dejian%20Changting.png"
+    },
+    {
+      "name": "Dewu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Dewu.png"
+    },
+    {
+      "name": "大众点评 Dianping",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Dianping.png"
+    },
+    {
+      "name": "滴滴出行 DiDi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/DiDi.png"
+    },
+    {
+      "name": "Dingdong Fresh",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Dingdong%20Fresh.png"
+    },
+    {
+      "name": "钉钉 DingTalk",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/DingTalk.png"
+    },
+    {
+      "name": "Dongchedi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Dongchedi.png"
+    },
+    {
+      "name": "豆瓣 Douban",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Douban.png"
+    },
+    {
+      "name": "抖音 Douyin",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Douyin.png"
+    },
+    {
+      "name": "Du Xiaoman Finance",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Du%20Xiaoman%20Finance.png"
+    },
+    {
+      "name": "DXY",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/DXY.png"
+    },
+    {
+      "name": "e-CNY",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/e-CNY.png"
+    },
+    {
+      "name": "Eastmoney",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Eastmoney.png"
+    },
+    {
+      "name": "Eggy Party",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Eggy%20Party.png"
+    },
+    {
+      "name": "Ele.me",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Ele.me.png"
+    },
+    {
+      "name": "印象笔记 Evernote",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Evernote.png"
+    },
+    {
+      "name": "Fanqie Audio",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Fanqie%20Audio.png"
+    },
+    {
+      "name": "Fanqie Novel",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Fanqie%20Novel.png"
+    },
+    {
+      "name": "Fantasy Westward Journey",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Fantasy%20Westward%20Journey.png"
+    },
+    {
+      "name": "飞书 Feishu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Feishu.png"
+    },
+    {
+      "name": "Fenbi",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Fenbi.png"
+    },
+    {
+      "name": "Fliggy",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Fliggy.png"
+    },
+    {
+      "name": "Game for Peace",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Game%20for%20Peace.png"
+    },
+    {
+      "name": "原神 Genshin Impact",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Genshin%20Impact.png"
+    },
+    {
+      "name": "Golden Spatula",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Golden%20Spatula.png"
+    },
+    {
+      "name": "Gome",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Gome.png"
+    },
+    {
+      "name": "Guazi Used Cars",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Guazi%20Used%20Cars.png"
+    },
+    {
+      "name": "Haodf",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Haodf.png"
+    },
+    {
+      "name": "Happy Dou Di Zhu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Happy%20Dou%20Di%20Zhu.png"
+    },
+    {
+      "name": "He Bao",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/He%20Bao.png"
+    },
+    {
+      "name": "He Caiyun",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/He%20Caiyun.png"
+    },
+    {
+      "name": "Hello Bike",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Hello%20Bike.png"
+    },
+    {
+      "name": "Hema",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Hema.png"
+    },
+    {
+      "name": "Honkai Impact 3rd",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Honkai%20Impact%203rd.png"
+    },
+    {
+      "name": "崩坏星穹铁道 Honkai Star Rail",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Honkai%20Star%20Rail.png"
+    },
+    {
+      "name": "王者荣耀 Honor of Kings",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Honor%20of%20Kings.png"
+    },
+    {
+      "name": "Hujiang Words",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Hujiang%20Words.png"
+    },
+    {
+      "name": "工商银行 ICBC",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/ICBC.png"
+    },
+    {
+      "name": "Identity V",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Identity%20V.png"
+    },
+    {
+      "name": "iFlytek Input",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/iFlytek%20Input.png"
+    },
+    {
+      "name": "爱奇艺 iQIYI",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/iQIYI.png"
+    },
+    {
+      "name": "iReader",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/iReader.png"
+    },
+    {
+      "name": "京东 JD",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/JD.png"
+    },
+    {
+      "name": "JD Daojia",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/JD%20Daojia.png"
+    },
+    {
+      "name": "JD Finance",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/JD%20Finance.png"
+    },
+    {
+      "name": "JJ Dou Di Zhu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/JJ%20Dou%20Di%20Zhu.png"
+    },
+    {
+      "name": "Justice Mobile",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Justice%20Mobile.png"
+    },
+    {
+      "name": "Keep",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Keep.png"
+    },
+    {
+      "name": "快手 Kuaishou",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Kuaishou.png"
+    },
+    {
+      "name": "Kugou Music",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Kugou%20Music.png"
+    },
+    {
+      "name": "Kuwo Music",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Kuwo%20Music.png"
+    },
+    {
+      "name": "Lianjia",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Lianjia.png"
+    },
+    {
+      "name": "Luckin Coffee",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Luckin%20Coffee.png"
+    },
+    {
+      "name": "Lushi Zhibin",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Lushi%20Zhibin.png"
+    },
+    {
+      "name": "Maimai",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Maimai.png"
+    },
+    {
+      "name": "Maimemo",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Maimemo.png"
+    },
+    {
+      "name": "芒果TV Mango TV",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Mango%20TV.png"
+    },
+    {
+      "name": "Meitu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Meitu.png"
+    },
+    {
+      "name": "美团 Meituan",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Meituan.png"
+    },
+    {
+      "name": "Migu Video",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Migu%20Video.png"
+    },
+    {
+      "name": "Momo",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Momo.png"
+    },
+    {
+      "name": "Moonlight Blade",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Moonlight%20Blade.png"
+    },
+    {
+      "name": "Mubu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Mubu.png"
+    },
+    {
+      "name": "Naruto Mobile",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Naruto%20Mobile.png"
+    },
+    {
+      "name": "National Anti Fraud Center",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/National%20Anti%20Fraud%20Center.png"
+    },
+    {
+      "name": "National Government Service Platform",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/National%20Government%20Service%20Platform.png"
+    },
+    {
+      "name": "National Healthcare Service",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/National%20Healthcare%20Service.png"
+    },
+    {
+      "name": "网易云音乐 NetEase Cloud Music",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/NetEase%20Cloud%20Music.png"
+    },
+    {
+      "name": "NetEase Open Courses",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/NetEase%20Open%20Courses.png"
+    },
+    {
+      "name": "Nutstore",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Nutstore.png"
+    },
+    {
+      "name": "Offcn",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Offcn.png"
+    },
+    {
+      "name": "Onmyoji",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Onmyoji.png"
+    },
+    {
+      "name": "People's Daily",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/People%27s%20Daily.png"
+    },
+    {
+      "name": "Personal Income Tax",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Personal%20Income%20Tax.png"
+    },
+    {
+      "name": "拼多多 Pinduoduo",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Pinduoduo.png"
+    },
+    {
+      "name": "Ping An Pocket Bank",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Ping%20An%20Pocket%20Bank.png"
+    },
+    {
+      "name": "Plants vs Zombies 2",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Plants%20vs%20Zombies%202.png"
+    },
+    {
+      "name": "Postal Savings Bank of China",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Postal%20Savings%20Bank%20of%20China.png"
+    },
+    {
+      "name": "Pupu Supermarket",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Pupu%20Supermarket.png"
+    },
+    {
+      "name": "Qidian Reading",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Qidian%20Reading.png"
+    },
+    {
+      "name": "Qimao Free Novels",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Qimao%20Free%20Novels.png"
+    },
+    {
+      "name": "Qingting FM",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Qingting%20FM.png"
+    },
+    {
+      "name": "QQ",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/QQ.png"
+    },
+    {
+      "name": "QQ音乐 QQ Music",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/QQ%20Music.png"
+    },
+    {
+      "name": "夸克 Quark",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Quark.png"
+    },
+    {
+      "name": "Quark Drive",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Quark%20Drive.png"
+    },
+    {
+      "name": "Quark Scanner",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Quark%20Scanner.png"
+    },
+    {
+      "name": "Qunar",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Qunar.png"
+    },
+    {
+      "name": "RedNote",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/RedNote.png"
+    },
+    {
+      "name": "Ruqi Mobility",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Ruqi%20Mobility.png"
+    },
+    {
+      "name": "Shanbay Words",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Shanbay%20Words.png"
+    },
+    {
+      "name": "Shenzhen Airlines",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Shenzhen%20Airlines.png"
+    },
+    {
+      "name": "Shimo Docs",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Shimo%20Docs.png"
+    },
+    {
+      "name": "Soda Music",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Soda%20Music.png"
+    },
+    {
+      "name": "Sogou Input",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Sogou%20Input.png"
+    },
+    {
+      "name": "Soul",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Soul.png"
+    },
+    {
+      "name": "Spring Airlines",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Spring%20Airlines.png"
+    },
+    {
+      "name": "State Council",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/State%20Council.png"
+    },
+    {
+      "name": "Suning",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Suning.png"
+    },
+    {
+      "name": "T3 Go",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/T3%20Go.png"
+    },
+    {
+      "name": "TAL",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/TAL.png"
+    },
+    {
+      "name": "Tantan",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Tantan.png"
+    },
+    {
+      "name": "淘宝 Taobao",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Taobao.png"
+    },
+    {
+      "name": "Tencent Docs",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Tencent%20Docs.png"
+    },
+    {
+      "name": "腾讯视频 Tencent Video",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Tencent%20Video.png"
+    },
+    {
+      "name": "Tencent Weiyun",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Tencent%20Weiyun.png"
+    },
+    {
+      "name": "Tenpay",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Tenpay.png"
+    },
+    {
+      "name": "Three Kingdoms Strategy",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Three%20Kingdoms%20Strategy.png"
+    },
+    {
+      "name": "Tianyi Cloud",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Tianyi%20Cloud.png"
+    },
+    {
+      "name": "TickTick",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/TickTick.png"
+    },
+    {
+      "name": "天猫 Tmall",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Tmall.png"
+    },
+    {
+      "name": "Tomato ToDo",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Tomato%20ToDo.png"
+    },
+    {
+      "name": "Tongcheng Travel",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Tongcheng%20Travel.png"
+    },
+    {
+      "name": "Tonghuashun",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Tonghuashun.png"
+    },
+    {
+      "name": "Traffic Management 12123",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Traffic%20Management%2012123.png"
+    },
+    {
+      "name": "携程 Trip.com",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Trip.com.png"
+    },
+    {
+      "name": "Umetrip",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Umetrip.png"
+    },
+    {
+      "name": "云闪付 UnionPay",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/UnionPay.png"
+    },
+    {
+      "name": "Vipshop",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Vipshop.png"
+    },
+    {
+      "name": "微博 Weibo",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Weibo.png"
+    },
+    {
+      "name": "WeRead",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/WeRead.png"
+    },
+    {
+      "name": "WPS WPS Office",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/WPS%20Office.png"
+    },
+    {
+      "name": "Xiamen Air",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Xiamen%20Air.png"
+    },
+    {
+      "name": "闲鱼 Xianyu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Xianyu.png"
+    },
+    {
+      "name": "Xiaoyuan Search",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Xiaoyuan%20Search.png"
+    },
+    {
+      "name": "喜马拉雅 Ximalaya",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Ximalaya.png"
+    },
+    {
+      "name": "Xingtu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Xingtu.png"
+    },
+    {
+      "name": "Xinhua News Agency",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Xinhua%20News%20Agency.png"
+    },
+    {
+      "name": "Xueersi Online School",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Xueersi%20Online%20School.png"
+    },
+    {
+      "name": "Xueqiu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Xueqiu.png"
+    },
+    {
+      "name": "Xuexi Qiangguo",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Xuexi%20Qiangguo.png"
+    },
+    {
+      "name": "Xunlei",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Xunlei.png"
+    },
+    {
+      "name": "Youdao Note",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Youdao%20Note.png"
+    },
+    {
+      "name": "优酷 Youku",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Youku.png"
+    },
+    {
+      "name": "Yuanfudao",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Yuanfudao.png"
+    },
+    {
+      "name": "Yuanmeng Star",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Yuanmeng%20Star.png"
+    },
+    {
+      "name": "Zenless Zone Zero",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Zenless%20Zone%20Zero.png"
+    },
+    {
+      "name": "Zhangshang 12333",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Zhangshang%2012333.png"
+    },
+    {
+      "name": "Zhangshang Bus",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Zhangshang%20Bus.png"
+    },
+    {
+      "name": "知乎 Zhihu",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Zhihu.png"
+    },
+    {
+      "name": "Zhuanzhuan",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Zhuanzhuan.png"
+    },
+    {
+      "name": "Zuoyebang",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/cn512px/Zuoyebang.png"
+    }
+  ]
+}
