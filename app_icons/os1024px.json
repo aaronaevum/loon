@@ -3,67 +3,67 @@
   "description": "Aaron",
   "icons": [
     {
-      "name": "1.1.1.1",
+      "name": "Cloudflare网络 1.1.1.1",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/1.1.1.1.png"
     },
     {
-      "name": "1Password",
+      "name": "密码管理 1Password",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/1Password.png"
     },
     {
-      "name": "500px",
+      "name": "摄影社区 500px",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/500px.png"
     },
     {
-      "name": "a-Shell",
+      "name": "终端 a-Shell",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/a-Shell.png"
     },
     {
-      "name": "AccuWeather",
+      "name": "准确天气 AccuWeather",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/AccuWeather.png"
     },
     {
-      "name": "AdGuard",
+      "name": "广告拦截 AdGuard",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/AdGuard.png"
     },
     {
-      "name": "AdGuard Pro",
+      "name": "广告拦截专业版 AdGuard Pro",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/AdGuard%20Pro.png"
     },
     {
-      "name": "adidas",
+      "name": "阿迪达斯 adidas",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/adidas.png"
     },
     {
-      "name": "Adobe Acrobat Reader",
+      "name": "奥多比PDF阅读 Adobe Acrobat Reader",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Adobe%20Acrobat%20Reader.png"
     },
     {
-      "name": "Adobe Express",
+      "name": "奥多比设计 Adobe Express",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Adobe%20Express.png"
     },
     {
-      "name": "Adobe Lightroom",
+      "name": "奥多比修图 Adobe Lightroom",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Adobe%20Lightroom.png"
     },
     {
-      "name": "Adobe Photoshop",
+      "name": "奥多比PS Adobe Photoshop",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Adobe%20Photoshop.png"
     },
     {
-      "name": "Adobe Scan",
+      "name": "奥多比扫描 Adobe Scan",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Adobe%20Scan.png"
     },
     {
-      "name": "AfterShip",
+      "name": "快递追踪 AfterShip",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/AfterShip.png"
     },
     {
-      "name": "Agoda",
+      "name": "安可达 Agoda",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Agoda.png"
     },
     {
-      "name": "AirAsia MOVE",
+      "name": "亚洲航空 AirAsia MOVE",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/AirAsia%20MOVE.png"
     },
     {
@@ -71,191 +71,191 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Airbnb.png"
     },
     {
-      "name": "AirDroid",
+      "name": "远程控制 AirDroid",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/AirDroid.png"
     },
     {
-      "name": "AliExpress",
+      "name": "速卖通 AliExpress",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/AliExpress.png"
     },
     {
-      "name": "AllTrails",
+      "name": "徒步路线 AllTrails",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/AllTrails.png"
     },
     {
-      "name": "Amazon Alexa",
+      "name": "亚马逊语音助手 Amazon Alexa",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Amazon%20Alexa.png"
     },
     {
-      "name": "Amazon Music",
+      "name": "亚马逊音乐 Amazon Music",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Amazon%20Music.png"
     },
     {
-      "name": "Amazon Photos",
+      "name": "亚马逊相册 Amazon Photos",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Amazon%20Photos.png"
     },
     {
-      "name": "Amazon Shopping",
+      "name": "亚马逊购物 Amazon Shopping",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Amazon%20Shopping.png"
     },
     {
-      "name": "American Airlines",
+      "name": "美国航空 American Airlines",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/American%20Airlines.png"
     },
     {
-      "name": "Among Us",
+      "name": "我们之中 Among Us",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Among%20Us.png"
     },
     {
-      "name": "ANA",
+      "name": "全日空 ANA",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/ANA.png"
     },
     {
-      "name": "AnkiMobile Flashcards",
+      "name": "记忆卡片 AnkiMobile Flashcards",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/AnkiMobile%20Flashcards.png"
     },
     {
-      "name": "AP News",
+      "name": "美联社新闻 AP News",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/AP%20News.png"
     },
     {
-      "name": "Apple (1)",
+      "name": "苹果 Apple (1)",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20%281%29.png"
     },
     {
-      "name": "Apple (2)",
+      "name": "苹果 Apple (2)",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20%282%29.png"
     },
     {
-      "name": "Apple (3)",
+      "name": "苹果 Apple (3)",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20%283%29.png"
     },
     {
-      "name": "Apple (4)",
+      "name": "苹果 Apple (4)",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20%284%29.png"
     },
     {
-      "name": "Apple (5)",
+      "name": "苹果 Apple (5)",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20%285%29.png"
     },
     {
-      "name": "Apple App Store",
+      "name": "苹果商店 Apple App Store",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20App%20Store.png"
     },
     {
-      "name": "Apple App Store Connect",
+      "name": "苹果商店后台 Apple App Store Connect",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20App%20Store%20Connect.png"
     },
     {
-      "name": "Apple Books",
+      "name": "苹果图书 Apple Books",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Books.png"
     },
     {
-      "name": "Apple Calculator",
+      "name": "苹果计算器 Apple Calculator",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Calculator.png"
     },
     {
-      "name": "Apple Calendar",
+      "name": "苹果日历 Apple Calendar",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Calendar.png"
     },
     {
-      "name": "Apple Camera",
+      "name": "苹果相机 Apple Camera",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Camera.png"
     },
     {
-      "name": "Apple Clock",
+      "name": "苹果时钟 Apple Clock",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Clock.png"
     },
     {
-      "name": "Apple Compass",
+      "name": "苹果指南针 Apple Compass",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Compass.png"
     },
     {
-      "name": "Apple Configurator",
+      "name": "苹果配置器 Apple Configurator",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Configurator.png"
     },
     {
-      "name": "Apple Contacts",
+      "name": "苹果通讯录 Apple Contacts",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Contacts.png"
     },
     {
-      "name": "Apple Developer",
+      "name": "苹果开发者 Apple Developer",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Developer.png"
     },
     {
-      "name": "Apple FaceTime",
+      "name": "苹果视频通话 Apple FaceTime",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20FaceTime.png"
     },
     {
-      "name": "Apple Files",
+      "name": "苹果文件 Apple Files",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Files.png"
     },
     {
-      "name": "Apple Find My",
+      "name": "苹果查找 Apple Find My",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Find%20My.png"
     },
     {
-      "name": "Apple Fitness",
+      "name": "苹果健身 Apple Fitness",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Fitness.png"
     },
     {
-      "name": "Apple Freeform",
+      "name": "苹果无边记 Apple Freeform",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Freeform.png"
     },
     {
-      "name": "Apple Games",
+      "name": "苹果游戏 Apple Games",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Games.png"
     },
     {
-      "name": "Apple GarageBand",
+      "name": "苹果库乐队 Apple GarageBand",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20GarageBand.png"
     },
     {
-      "name": "Apple Health",
+      "name": "苹果健康 Apple Health",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Health.png"
     },
     {
-      "name": "Apple Home",
+      "name": "苹果家庭 Apple Home",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Home.png"
     },
     {
-      "name": "Apple iMovie",
+      "name": "苹果影片剪辑 Apple iMovie",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20iMovie.png"
     },
     {
-      "name": "Apple Invites",
+      "name": "苹果邀请 Apple Invites",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Invites.png"
     },
     {
-      "name": "Apple iTunes Store",
+      "name": "苹果iTunes商店 Apple iTunes Store",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20iTunes%20Store.png"
     },
     {
-      "name": "Apple Journal",
+      "name": "苹果日记 Apple Journal",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Journal.png"
     },
     {
-      "name": "Apple Keynote",
+      "name": "苹果演示文稿 Apple Keynote",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Keynote.png"
     },
     {
-      "name": "Apple Magnifier",
+      "name": "苹果放大器 Apple Magnifier",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Magnifier.png"
     },
     {
-      "name": "Apple Mail",
+      "name": "苹果邮件 Apple Mail",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Mail.png"
     },
     {
-      "name": "Apple Maps",
+      "name": "苹果地图 Apple Maps",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Maps.png"
     },
     {
-      "name": "Apple Measure",
+      "name": "苹果测距仪 Apple Measure",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Measure.png"
     },
     {
-      "name": "Apple Messages",
+      "name": "苹果信息 Apple Messages",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Messages.png"
     },
     {
@@ -263,7 +263,7 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Music.png"
     },
     {
-      "name": "Apple Music Classical",
+      "name": "苹果古典乐 Apple Music Classical",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Music%20Classical.png"
     },
     {
@@ -271,79 +271,79 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20News.png"
     },
     {
-      "name": "Apple Notes",
+      "name": "苹果备忘录 Apple Notes",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Notes.png"
     },
     {
-      "name": "Apple Numbers",
+      "name": "苹果表格 Apple Numbers",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Numbers.png"
     },
     {
-      "name": "Apple Pages",
+      "name": "苹果文稿 Apple Pages",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Pages.png"
     },
     {
-      "name": "Apple Passwords",
+      "name": "苹果密码 Apple Passwords",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Passwords.png"
     },
     {
-      "name": "Apple Phone",
+      "name": "苹果电话 Apple Phone",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Phone.png"
     },
     {
-      "name": "Apple Photos",
+      "name": "苹果照片 Apple Photos",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Photos.png"
     },
     {
-      "name": "Apple Podcasts",
+      "name": "苹果播客 Apple Podcasts",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Podcasts.png"
     },
     {
-      "name": "Apple Reminders",
+      "name": "苹果提醒事项 Apple Reminders",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Reminders.png"
     },
     {
-      "name": "Apple Safari",
+      "name": "苹果浏览器 Apple Safari",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Safari.png"
     },
     {
-      "name": "Apple Settings",
+      "name": "苹果设置 Apple Settings",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Settings.png"
     },
     {
-      "name": "Apple Shazam",
+      "name": "苹果音乐识别 Apple Shazam",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Shazam.png"
     },
     {
-      "name": "Apple Shortcuts",
+      "name": "苹果快捷指令 Apple Shortcuts",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Shortcuts.png"
     },
     {
-      "name": "Apple Sports",
+      "name": "苹果体育 Apple Sports",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Sports.png"
     },
     {
-      "name": "Apple Stocks",
+      "name": "苹果股市 Apple Stocks",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Stocks.png"
     },
     {
-      "name": "Apple Store",
+      "name": "苹果零售店 Apple Store",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Store.png"
     },
     {
-      "name": "Apple Support",
+      "name": "苹果支持 Apple Support",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Support.png"
     },
     {
-      "name": "Apple TestFlight",
+      "name": "苹果测试飞行 Apple TestFlight",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20TestFlight.png"
     },
     {
-      "name": "Apple Tips",
+      "name": "苹果提示 Apple Tips",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Tips.png"
     },
     {
-      "name": "Apple Translate",
+      "name": "苹果翻译 Apple Translate",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Translate.png"
     },
     {
@@ -351,99 +351,99 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20TV.png"
     },
     {
-      "name": "Apple TV Remote",
+      "name": "苹果电视遥控器 Apple TV Remote",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20TV%20Remote.png"
     },
     {
-      "name": "Apple Voice Memos",
+      "name": "苹果语音备忘录 Apple Voice Memos",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Voice%20Memos.png"
     },
     {
-      "name": "Apple Wallet",
+      "name": "苹果钱包 Apple Wallet",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Wallet.png"
     },
     {
-      "name": "Apple Watch",
+      "name": "苹果手表 Apple Watch",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Watch.png"
     },
     {
-      "name": "Apple Weather",
+      "name": "苹果天气 Apple Weather",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Apple%20Weather.png"
     },
     {
-      "name": "AppleIntelligence",
+      "name": "苹果智能 AppleIntelligence",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/AppleIntelligence.png"
     },
     {
-      "name": "Arena of Valor",
+      "name": "传说对决 Arena of Valor",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Arena%20of%20Valor.png"
     },
     {
-      "name": "Arlo Secure",
+      "name": "家庭监控 Arlo Secure",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Arlo%20Secure.png"
     },
     {
-      "name": "Asana",
+      "name": "任务管理 Asana",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Asana.png"
     },
     {
-      "name": "Ash Echoes",
+      "name": "白荆回廊 Ash Echoes",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Ash%20Echoes.png"
     },
     {
-      "name": "Audible",
+      "name": "有声书 Audible",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Audible.png"
     },
     {
-      "name": "Authy",
+      "name": "两步验证 Authy",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Authy.png"
     },
     {
-      "name": "Babbel",
+      "name": "语言学习 Babbel",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Babbel.png"
     },
     {
-      "name": "Balatro",
+      "name": "小丑牌 Balatro",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Balatro.png"
     },
     {
-      "name": "BBC News",
+      "name": "英国广播公司新闻 BBC News",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/BBC%20News.png"
     },
     {
-      "name": "Bear",
+      "name": "熊掌记 Bear",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Bear.png"
     },
     {
-      "name": "BeReal",
+      "name": "真实社交 BeReal",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/BeReal.png"
     },
     {
-      "name": "Binance",
+      "name": "币安 Binance",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Binance.png"
     },
     {
-      "name": "Bitwarden",
+      "name": "密码管理 Bitwarden",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Bitwarden.png"
     },
     {
-      "name": "Blackmagic Camera",
+      "name": "黑魔法相机 Blackmagic Camera",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Blackmagic%20Camera.png"
     },
     {
-      "name": "Blink Shell",
+      "name": "终端 Blink Shell",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Blink%20Shell.png"
     },
     {
-      "name": "Bloomberg",
+      "name": "彭博 Bloomberg",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Bloomberg.png"
     },
     {
-      "name": "Bluesky",
+      "name": "蓝天社交 Bluesky",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Bluesky.png"
     },
     {
-      "name": "Bolt",
+      "name": "网约车 Bolt",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Bolt.png"
     },
     {
@@ -451,187 +451,187 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Booking.com.png"
     },
     {
-      "name": "Bose",
+      "name": "博士音响 Bose",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Bose.png"
     },
     {
-      "name": "Box",
+      "name": "盒子云盘 Box",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Box.png"
     },
     {
-      "name": "Brawl Stars",
+      "name": "荒野乱斗 Brawl Stars",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Brawl%20Stars.png"
     },
     {
-      "name": "Brilliant",
+      "name": "数理学习 Brilliant",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Brilliant.png"
     },
     {
-      "name": "British Airways",
+      "name": "英国航空 British Airways",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/British%20Airways.png"
     },
     {
-      "name": "Burger King",
+      "name": "汉堡王 Burger King",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Burger%20King.png"
     },
     {
-      "name": "Busuu",
+      "name": "语言学习 Busuu",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Busuu.png"
     },
     {
-      "name": "Calendars 5",
+      "name": "日历 Calendars 5",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Calendars%205.png"
     },
     {
-      "name": "Call of Duty Mobile",
+      "name": "使命召唤手游 Call of Duty Mobile",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Call%20of%20Duty%20Mobile.png"
     },
     {
-      "name": "Calm",
+      "name": "冥想 Calm",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Calm.png"
     },
     {
-      "name": "Candy Crush Saga",
+      "name": "糖果传奇 Candy Crush Saga",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Candy%20Crush%20Saga.png"
     },
     {
-      "name": "Canva",
+      "name": "可画 Canva",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Canva.png"
     },
     {
-      "name": "CapCut",
+      "name": "剪映 CapCut",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/CapCut.png"
     },
     {
-      "name": "CARROT Weather",
+      "name": "胡萝卜天气 CARROT Weather",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/CARROT%20Weather.png"
     },
     {
-      "name": "Cash App",
+      "name": "现金应用 Cash App",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Cash%20App.png"
     },
     {
-      "name": "Cathay Pacific",
+      "name": "国泰航空 Cathay Pacific",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Cathay%20Pacific.png"
     },
     {
-      "name": "Character AI",
+      "name": "角色智能 Character AI",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Character%20AI.png"
     },
     {
-      "name": "Charles Schwab",
+      "name": "嘉信理财 Charles Schwab",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Charles%20Schwab.png"
     },
     {
-      "name": "ChatGPT",
+      "name": "聊天GPT ChatGPT",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/ChatGPT.png"
     },
     {
-      "name": "Chess.com",
+      "name": "国际象棋 Chess.com",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Chess.com.png"
     },
     {
-      "name": "Chime",
+      "name": "网络银行 Chime",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Chime.png"
     },
     {
-      "name": "Citymapper",
+      "name": "城市地图 Citymapper",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Citymapper.png"
     },
     {
-      "name": "Clash Mi",
+      "name": "代理 Clash Mi",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Clash%20Mi.png"
     },
     {
-      "name": "Clash of Clans",
+      "name": "部落冲突 Clash of Clans",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Clash%20of%20Clans.png"
     },
     {
-      "name": "Clash Royale",
+      "name": "皇室战争 Clash Royale",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Clash%20Royale.png"
     },
     {
-      "name": "Claude",
+      "name": "克劳德 Claude",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Claude.png"
     },
     {
-      "name": "ClickUp",
+      "name": "任务管理 ClickUp",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/ClickUp.png"
     },
     {
-      "name": "Cloudflare One Agent",
+      "name": "网络安全 Cloudflare One Agent",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Cloudflare%20One%20Agent.png"
     },
     {
-      "name": "Clubhouse",
+      "name": "语音社交 Clubhouse",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Clubhouse.png"
     },
     {
-      "name": "Clue",
+      "name": "经期记录 Clue",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Clue.png"
     },
     {
-      "name": "CNN",
+      "name": "有线电视新闻网 CNN",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/CNN.png"
     },
     {
-      "name": "Coinbase",
+      "name": "币基 Coinbase",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Coinbase.png"
     },
     {
-      "name": "Costco",
+      "name": "好市多 Costco",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Costco.png"
     },
     {
-      "name": "Coursera",
+      "name": "在线课程 Coursera",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Coursera.png"
     },
     {
-      "name": "Craft",
+      "name": "笔记文档 Craft",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Craft.png"
     },
     {
-      "name": "Crunchyroll",
+      "name": "动漫流媒体 Crunchyroll",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Crunchyroll.png"
     },
     {
-      "name": "Crypto.com",
+      "name": "加密货币 Crypto.com",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Crypto.com.png"
     },
     {
-      "name": "Darkroom",
+      "name": "暗房修图 Darkroom",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Darkroom.png"
     },
     {
-      "name": "Dashlane",
+      "name": "密码管理 Dashlane",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Dashlane.png"
     },
     {
-      "name": "Dead Cells",
+      "name": "死亡细胞 Dead Cells",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Dead%20Cells.png"
     },
     {
-      "name": "DeepL",
+      "name": "深度翻译 DeepL",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/DeepL.png"
     },
     {
-      "name": "Deezer",
+      "name": "音乐 Deezer",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Deezer.png"
     },
     {
-      "name": "Deliveroo",
+      "name": "外卖 Deliveroo",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Deliveroo.png"
     },
     {
-      "name": "Delta",
+      "name": "达美航空 Delta",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Delta.png"
     },
     {
-      "name": "DHL Express Mobile",
+      "name": "敦豪快递 DHL Express Mobile",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/DHL%20Express%20Mobile.png"
     },
     {
-      "name": "Discord",
+      "name": "语音社区 Discord",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Discord.png"
     },
     {
@@ -639,11 +639,11 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Disney%2B.png"
     },
     {
-      "name": "Documents by Readdle",
+      "name": "文档管理 Documents by Readdle",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Documents%20by%20Readdle.png"
     },
     {
-      "name": "DoorDash",
+      "name": "外卖 DoorDash",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/DoorDash.png"
     },
     {
@@ -651,11 +651,11 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Dropbox.png"
     },
     {
-      "name": "Duolingo",
+      "name": "多邻国 Duolingo",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Duolingo.png"
     },
     {
-      "name": "EA SPORTS FC Mobile",
+      "name": "足球手游 EA SPORTS FC Mobile",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/EA%20SPORTS%20FC%20Mobile.png"
     },
     {
@@ -663,27 +663,27 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/eBay.png"
     },
     {
-      "name": "edX",
+      "name": "在线课程 edX",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/edX.png"
     },
     {
-      "name": "eFootball",
+      "name": "实况足球 eFootball",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/eFootball.png"
     },
     {
-      "name": "Elevate",
+      "name": "大脑训练 Elevate",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Elevate.png"
     },
     {
-      "name": "Emirates",
+      "name": "阿联酋航空 Emirates",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Emirates.png"
     },
     {
-      "name": "ESPN",
+      "name": "体育频道 ESPN",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/ESPN.png"
     },
     {
-      "name": "Etsy",
+      "name": "手工市集 Etsy",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Etsy.png"
     },
     {
@@ -691,11 +691,11 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Evernote.png"
     },
     {
-      "name": "Expedia",
+      "name": "亿客行 Expedia",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Expedia.png"
     },
     {
-      "name": "ExpressVPN",
+      "name": "加速器 ExpressVPN",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/ExpressVPN.png"
     },
     {
@@ -703,31 +703,31 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Facebook.png"
     },
     {
-      "name": "Facetune",
+      "name": "修图 Facetune",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Facetune.png"
     },
     {
-      "name": "Fantastical",
+      "name": "日历 Fantastical",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Fantastical.png"
     },
     {
-      "name": "FedEx Mobile",
+      "name": "联邦快递 FedEx Mobile",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/FedEx%20Mobile.png"
     },
     {
-      "name": "Fidelity Investments",
+      "name": "富达投资 Fidelity Investments",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Fidelity%20Investments.png"
     },
     {
-      "name": "FIFA+",
+      "name": "国际足联 FIFA+",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/FIFA%2B.png"
     },
     {
-      "name": "Final Cut Camera",
+      "name": "剪辑相机 Final Cut Camera",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Final%20Cut%20Camera.png"
     },
     {
-      "name": "Financial Times",
+      "name": "金融时报 Financial Times",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Financial%20Times.png"
     },
     {
@@ -735,59 +735,59 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Firefox.png"
     },
     {
-      "name": "Fitbit",
+      "name": "智能手环 Fitbit",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Fitbit.png"
     },
     {
-      "name": "Flashscore",
+      "name": "比分 Flashscore",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Flashscore.png"
     },
     {
-      "name": "Flickr",
+      "name": "图片分享 Flickr",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Flickr.png"
     },
     {
-      "name": "FlightRadar24",
+      "name": "航班追踪 FlightRadar24",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/FlightRadar24.png"
     },
     {
-      "name": "Flighty",
+      "name": "航班追踪 Flighty",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Flighty.png"
     },
     {
-      "name": "Flipboard",
+      "name": "新闻阅读 Flipboard",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Flipboard.png"
     },
     {
-      "name": "Flo",
+      "name": "经期记录 Flo",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Flo.png"
     },
     {
-      "name": "Foodpanda",
+      "name": "外卖 Foodpanda",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Foodpanda.png"
     },
     {
-      "name": "Formula 1",
+      "name": "一级方程式 Formula 1",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Formula%201.png"
     },
     {
-      "name": "Fortnite",
+      "name": "堡垒之夜 Fortnite",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Fortnite.png"
     },
     {
-      "name": "FotMob",
+      "name": "足球比分 FotMob",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/FotMob.png"
     },
     {
-      "name": "Free Fire",
+      "name": "自由之火 Free Fire",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Free%20Fire.png"
     },
     {
-      "name": "Gardenscapes",
+      "name": "梦幻花园 Gardenscapes",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Gardenscapes.png"
     },
     {
-      "name": "Garmin Connect",
+      "name": "佳明 Garmin Connect",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Garmin%20Connect.png"
     },
     {
@@ -795,19 +795,19 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Genshin%20Impact.png"
     },
     {
-      "name": "GetYourGuide",
+      "name": "旅游体验 GetYourGuide",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/GetYourGuide.png"
     },
     {
-      "name": "giffgaff",
+      "name": "英国电话卡 giffgaff",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/giffgaff.png"
     },
     {
-      "name": "GitHub",
+      "name": "代码托管 GitHub",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/GitHub.png"
     },
     {
-      "name": "GitLab",
+      "name": "代码托管 GitLab",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/GitLab.png"
     },
     {
@@ -815,15 +815,15 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Gmail.png"
     },
     {
-      "name": "Gojek",
+      "name": "印尼出行 Gojek",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Gojek.png"
     },
     {
-      "name": "Goodnotes",
+      "name": "笔记 Goodnotes",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Goodnotes.png"
     },
     {
-      "name": "Goodreads",
+      "name": "读书 Goodreads",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Goodreads.png"
     },
     {
@@ -831,7 +831,7 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google.png"
     },
     {
-      "name": "Google Authenticator",
+      "name": "谷歌验证器 Google Authenticator",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20Authenticator.png"
     },
     {
@@ -839,7 +839,7 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20Chrome.png"
     },
     {
-      "name": "Google Docs",
+      "name": "谷歌文档 Google Docs",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20Docs.png"
     },
     {
@@ -847,19 +847,19 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20Drive.png"
     },
     {
-      "name": "Google Earth",
+      "name": "谷歌地球 Google Earth",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20Earth.png"
     },
     {
-      "name": "Google Gemini",
+      "name": "谷歌双子座 Google Gemini",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20Gemini.png"
     },
     {
-      "name": "Google Home",
+      "name": "谷歌家庭 Google Home",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20Home.png"
     },
     {
-      "name": "Google Keep",
+      "name": "谷歌便签 Google Keep",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20Keep.png"
     },
     {
@@ -867,11 +867,11 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20Maps.png"
     },
     {
-      "name": "Google Meet",
+      "name": "谷歌会议 Google Meet",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20Meet.png"
     },
     {
-      "name": "Google News",
+      "name": "谷歌新闻 Google News",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20News.png"
     },
     {
@@ -879,11 +879,11 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20Photos.png"
     },
     {
-      "name": "Google Sheets",
+      "name": "谷歌表格 Google Sheets",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20Sheets.png"
     },
     {
-      "name": "Google Slides",
+      "name": "谷歌幻灯片 Google Slides",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20Slides.png"
     },
     {
@@ -891,39 +891,39 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Google%20Translate.png"
     },
     {
-      "name": "Grab",
+      "name": "东南亚出行 Grab",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Grab.png"
     },
     {
-      "name": "Grok",
+      "name": "格罗克 Grok",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Grok.png"
     },
     {
-      "name": "H&M",
+      "name": "海恩斯莫里斯 H&M",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/H%26M.png"
     },
     {
-      "name": "Halide Mark II",
+      "name": "相机 Halide Mark II",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Halide%20Mark%20II.png"
     },
     {
-      "name": "Hay Day",
+      "name": "卡通农场 Hay Day",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Hay%20Day.png"
     },
     {
-      "name": "Headspace",
+      "name": "冥想 Headspace",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Headspace.png"
     },
     {
-      "name": "HERE WeGo",
+      "name": "导航 HERE WeGo",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/HERE%20WeGo.png"
     },
     {
-      "name": "Home Assistant",
+      "name": "智能家居 Home Assistant",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Home%20Assistant.png"
     },
     {
-      "name": "Homescapes",
+      "name": "梦幻家园 Homescapes",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Homescapes.png"
     },
     {
@@ -935,35 +935,35 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Honor%20of%20Kings.png"
     },
     {
-      "name": "Hopper",
+      "name": "机票预订 Hopper",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Hopper.png"
     },
     {
-      "name": "Hulu",
+      "name": "葫芦视频 Hulu",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Hulu.png"
     },
     {
-      "name": "IKEA",
+      "name": "宜家 IKEA",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/IKEA.png"
     },
     {
-      "name": "imo",
+      "name": "视频聊天 imo",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/imo.png"
     },
     {
-      "name": "Infuse",
+      "name": "视频播放器 Infuse",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Infuse.png"
     },
     {
-      "name": "InShot",
+      "name": "视频剪辑 InShot",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/InShot.png"
     },
     {
-      "name": "Insight Timer",
+      "name": "冥想 Insight Timer",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Insight%20Timer.png"
     },
     {
-      "name": "Instacart",
+      "name": "生鲜配送 Instacart",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Instacart.png"
     },
     {
@@ -971,7 +971,7 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Instagram.png"
     },
     {
-      "name": "Interactive Brokers",
+      "name": "盈透证券 Interactive Brokers",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Interactive%20Brokers.png"
     },
     {
@@ -979,87 +979,87 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/iPhone.png"
     },
     {
-      "name": "iSH Shell",
+      "name": "终端 iSH Shell",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/iSH%20Shell.png"
     },
     {
-      "name": "iTranslate",
+      "name": "翻译 iTranslate",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/iTranslate.png"
     },
     {
-      "name": "Japan Airlines",
+      "name": "日本航空 Japan Airlines",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Japan%20Airlines.png"
     },
     {
-      "name": "JBL Headphones",
+      "name": "耳机 JBL Headphones",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/JBL%20Headphones.png"
     },
     {
-      "name": "Jellyfin",
+      "name": "媒体服务器 Jellyfin",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Jellyfin.png"
     },
     {
-      "name": "KakaoTalk",
+      "name": "卡考聊天 KakaoTalk",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/KakaoTalk.png"
     },
     {
-      "name": "Karing",
+      "name": "代理 Karing",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Karing.png"
     },
     {
-      "name": "Kayak",
+      "name": "机票比价 Kayak",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Kayak.png"
     },
     {
-      "name": "KFC",
+      "name": "肯德基 KFC",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/KFC.png"
     },
     {
-      "name": "Khan Academy",
+      "name": "可汗学院 Khan Academy",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Khan%20Academy.png"
     },
     {
-      "name": "Kindle",
+      "name": "亚马逊电子书 Kindle",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Kindle.png"
     },
     {
-      "name": "Klook",
+      "name": "客路 Klook",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Klook.png"
     },
     {
-      "name": "Kobo Books",
+      "name": "电子书 Kobo Books",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Kobo%20Books.png"
     },
     {
-      "name": "Komoot",
+      "name": "骑行路线 Komoot",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Komoot.png"
     },
     {
-      "name": "Kraken",
+      "name": "海妖交易所 Kraken",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Kraken.png"
     },
     {
-      "name": "LastPass",
+      "name": "密码管理 LastPass",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/LastPass.png"
     },
     {
-      "name": "Lazada",
+      "name": "来赞达 Lazada",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Lazada.png"
     },
     {
-      "name": "League of Legends Wild Rift",
+      "name": "英雄联盟手游 League of Legends Wild Rift",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/League%20of%20Legends%20Wild%20Rift.png"
     },
     {
-      "name": "LEGO",
+      "name": "乐高 LEGO",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/LEGO.png"
     },
     {
-      "name": "Libby",
+      "name": "图书馆 Libby",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Libby.png"
     },
     {
-      "name": "Lichess",
+      "name": "国际象棋 Lichess",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Lichess.png"
     },
     {
@@ -1071,87 +1071,87 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/LinkedIn.png"
     },
     {
-      "name": "LocalSend",
+      "name": "本地传输 LocalSend",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/LocalSend.png"
     },
     {
-      "name": "Logic Remote",
+      "name": "逻辑遥控 Logic Remote",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Logic%20Remote.png"
     },
     {
-      "name": "LOL",
+      "name": "英雄联盟 LOL",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/LOL.png"
     },
     {
-      "name": "Loon",
+      "name": "潜鸟 Loon",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Loon.png"
     },
     {
-      "name": "Lose It!",
+      "name": "减肥 Lose It!",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Lose%20It%21.png"
     },
     {
-      "name": "Lufthansa",
+      "name": "汉莎航空 Lufthansa",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Lufthansa.png"
     },
     {
-      "name": "LumaFusion",
+      "name": "视频剪辑 LumaFusion",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/LumaFusion.png"
     },
     {
-      "name": "Lyft",
+      "name": "网约车 Lyft",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Lyft.png"
     },
     {
-      "name": "Malaysia Airlines",
+      "name": "马来西亚航空 Malaysia Airlines",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Malaysia%20Airlines.png"
     },
     {
-      "name": "Maps.me",
+      "name": "离线地图 Maps.me",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Maps.me.png"
     },
     {
-      "name": "Mastodon",
+      "name": "长毛象 Mastodon",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Mastodon.png"
     },
     {
-      "name": "Max",
+      "name": "流媒体 Max",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Max.png"
     },
     {
-      "name": "McDonald's",
+      "name": "麦当劳 McDonald's",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/McDonald%27s.png"
     },
     {
-      "name": "Meetup",
+      "name": "线下聚会 Meetup",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Meetup.png"
     },
     {
-      "name": "Memrise",
+      "name": "背单词 Memrise",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Memrise.png"
     },
     {
-      "name": "Mercari",
+      "name": "煤炉 Mercari",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Mercari.png"
     },
     {
-      "name": "Messenger",
+      "name": "脸书聊天 Messenger",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Messenger.png"
     },
     {
-      "name": "MetaTrader 5",
+      "name": "外汇交易 MetaTrader 5",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/MetaTrader%205.png"
     },
     {
-      "name": "Mi Home",
+      "name": "米家 Mi Home",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Mi%20Home.png"
     },
     {
-      "name": "Microsoft Authenticator",
+      "name": "微软验证器 Microsoft Authenticator",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Microsoft%20Authenticator.png"
     },
     {
-      "name": "Microsoft Copilot",
+      "name": "微软副驾驶 Microsoft Copilot",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Microsoft%20Copilot.png"
     },
     {
@@ -1163,7 +1163,7 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Microsoft%20Excel.png"
     },
     {
-      "name": "Microsoft OneNote",
+      "name": "微软笔记 Microsoft OneNote",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Microsoft%20OneNote.png"
     },
     {
@@ -1171,15 +1171,15 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Microsoft%20Outlook.png"
     },
     {
-      "name": "Microsoft PowerPoint",
+      "name": "微软演示 Microsoft PowerPoint",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Microsoft%20PowerPoint.png"
     },
     {
-      "name": "Microsoft Teams",
+      "name": "微软团队 Microsoft Teams",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Microsoft%20Teams.png"
     },
     {
-      "name": "Microsoft Translator",
+      "name": "微软翻译 Microsoft Translator",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Microsoft%20Translator.png"
     },
     {
@@ -1187,51 +1187,51 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Microsoft%20Word.png"
     },
     {
-      "name": "Minecraft",
+      "name": "我的世界 Minecraft",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Minecraft.png"
     },
     {
-      "name": "MLB",
+      "name": "美国职棒大联盟 MLB",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/MLB.png"
     },
     {
-      "name": "Mobile Legends Bang Bang",
+      "name": "无尽对决 Mobile Legends Bang Bang",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Mobile%20Legends%20Bang%20Bang.png"
     },
     {
-      "name": "Monopoly GO!",
+      "name": "大富翁 Monopoly GO!",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Monopoly%20GO%21.png"
     },
     {
-      "name": "Monzo",
+      "name": "英国银行 Monzo",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Monzo.png"
     },
     {
-      "name": "Moovit",
+      "name": "公交出行 Moovit",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Moovit.png"
     },
     {
-      "name": "Muse",
+      "name": "音乐 Muse",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Muse.png"
     },
     {
-      "name": "MyFitnessPal",
+      "name": "健身 MyFitnessPal",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/MyFitnessPal.png"
     },
     {
-      "name": "MyRadar",
+      "name": "天气雷达 MyRadar",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/MyRadar.png"
     },
     {
-      "name": "N26",
+      "name": "德国银行 N26",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/N26.png"
     },
     {
-      "name": "NAVITIME Japan Travel",
+      "name": "日本交通 NAVITIME Japan Travel",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/NAVITIME%20Japan%20Travel.png"
     },
     {
-      "name": "NBA App",
+      "name": "美国职业篮球 NBA App",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/NBA%20App.png"
     },
     {
@@ -1239,91 +1239,91 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Netflix.png"
     },
     {
-      "name": "NextDNS",
+      "name": "域名解析 NextDNS",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/NextDNS.png"
     },
     {
-      "name": "Nextdoor",
+      "name": "社区邻里 Nextdoor",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Nextdoor.png"
     },
     {
-      "name": "NFL",
+      "name": "美式橄榄球 NFL",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/NFL.png"
     },
     {
-      "name": "Nike",
+      "name": "耐克 Nike",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Nike.png"
     },
     {
-      "name": "Nike Run Club",
+      "name": "耐克跑步 Nike Run Club",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Nike%20Run%20Club.png"
     },
     {
-      "name": "Nike Training Club",
+      "name": "耐克训练 Nike Training Club",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Nike%20Training%20Club.png"
     },
     {
-      "name": "NordVPN",
+      "name": "诺德VPN NordVPN",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/NordVPN.png"
     },
     {
-      "name": "Notability",
+      "name": "笔记 Notability",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Notability.png"
     },
     {
-      "name": "Notion",
+      "name": "概念笔记 Notion",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Notion.png"
     },
     {
-      "name": "Obsidian",
+      "name": "黑曜石 Obsidian",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Obsidian.png"
     },
     {
-      "name": "OmniFocus",
+      "name": "任务管理 OmniFocus",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/OmniFocus.png"
     },
     {
-      "name": "OneClick",
+      "name": "一键 OneClick",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/OneClick.png"
     },
     {
-      "name": "OneDrive",
+      "name": "微软云盘 OneDrive",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/OneDrive.png"
     },
     {
-      "name": "OneFootball",
+      "name": "足球 OneFootball",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/OneFootball.png"
     },
     {
-      "name": "OpenTable",
+      "name": "餐厅预订 OpenTable",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/OpenTable.png"
     },
     {
-      "name": "OpenVPN Connect",
+      "name": "VPN OpenVPN Connect",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/OpenVPN%20Connect.png"
     },
     {
-      "name": "Organic Maps",
+      "name": "离线地图 Organic Maps",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Organic%20Maps.png"
     },
     {
-      "name": "Outline",
+      "name": "大纲VPN Outline",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Outline.png"
     },
     {
-      "name": "Pandora",
+      "name": "潘多拉音乐 Pandora",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Pandora.png"
     },
     {
-      "name": "Paramount+",
+      "name": "派拉蒙 Paramount+",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Paramount%2B.png"
     },
     {
-      "name": "Parcel",
+      "name": "快递追踪 Parcel",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Parcel.png"
     },
     {
-      "name": "Payoneer",
+      "name": "派安盈 Payoneer",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Payoneer.png"
     },
     {
@@ -1331,35 +1331,35 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/PayPal.png"
     },
     {
-      "name": "PayPal Business",
+      "name": "贝宝商家 PayPal Business",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/PayPal%20Business.png"
     },
     {
-      "name": "PDF Expert",
+      "name": "PDF专家 PDF Expert",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/PDF%20Expert.png"
     },
     {
-      "name": "Peacock",
+      "name": "孔雀流媒体 Peacock",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Peacock.png"
     },
     {
-      "name": "Peloton",
+      "name": "派乐腾 Peloton",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Peloton.png"
     },
     {
-      "name": "Perplexity",
+      "name": "困惑搜索 Perplexity",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Perplexity.png"
     },
     {
-      "name": "Philips Hue",
+      "name": "飞利浦灯 Philips Hue",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Philips%20Hue.png"
     },
     {
-      "name": "Photomath",
+      "name": "拍照数学 Photomath",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Photomath.png"
     },
     {
-      "name": "Picsart",
+      "name": "图片编辑 Picsart",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Picsart.png"
     },
     {
@@ -1367,67 +1367,67 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Pinterest.png"
     },
     {
-      "name": "Plex",
+      "name": "媒体服务器 Plex",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Plex.png"
     },
     {
-      "name": "Poe",
+      "name": "对话机器人 Poe",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Poe.png"
     },
     {
-      "name": "Pokemon GO",
+      "name": "宝可梦GO Pokemon GO",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Pokemon%20GO.png"
     },
     {
-      "name": "Pokemon TCG Pocket",
+      "name": "宝可梦卡牌 Pokemon TCG Pocket",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Pokemon%20TCG%20Pocket.png"
     },
     {
-      "name": "Pokemon UNITE",
+      "name": "宝可梦大集结 Pokemon UNITE",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Pokemon%20UNITE.png"
     },
     {
-      "name": "Potatso",
+      "name": "土豆代理 Potatso",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Potatso.png"
     },
     {
-      "name": "Prime Video",
+      "name": "亚马逊视频 Prime Video",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Prime%20Video.png"
     },
     {
-      "name": "Prisma",
+      "name": "滤镜 Prisma",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Prisma.png"
     },
     {
-      "name": "Procreate",
+      "name": "绘画 Procreate",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Procreate.png"
     },
     {
-      "name": "Procreate Pocket",
+      "name": "口袋绘画 Procreate Pocket",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Procreate%20Pocket.png"
     },
     {
-      "name": "Proton Mail",
+      "name": "质子邮箱 Proton Mail",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Proton%20Mail.png"
     },
     {
-      "name": "Proton Pass",
+      "name": "质子密码 Proton Pass",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Proton%20Pass.png"
     },
     {
-      "name": "Proton VPN",
+      "name": "质子VPN Proton VPN",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Proton%20VPN.png"
     },
     {
-      "name": "ProxyMan",
+      "name": "抓包 ProxyMan",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/ProxyMan.png"
     },
     {
-      "name": "PUBG MOBILE",
+      "name": "绝地求生 PUBG MOBILE",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/PUBG%20MOBILE.png"
     },
     {
-      "name": "Qantas",
+      "name": "澳洲航空 Qantas",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Qantas.png"
     },
     {
@@ -1435,15 +1435,15 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Quantumult%20X.png"
     },
     {
-      "name": "Quizlet",
+      "name": "学习卡片 Quizlet",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Quizlet.png"
     },
     {
-      "name": "Quora",
+      "name": "问答 Quora",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Quora.png"
     },
     {
-      "name": "Rakuten",
+      "name": "乐天 Rakuten",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Rakuten.png"
     },
     {
@@ -1451,35 +1451,35 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Reddit.png"
     },
     {
-      "name": "Remini",
+      "name": "照片修复 Remini",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Remini.png"
     },
     {
-      "name": "Reuters News",
+      "name": "路透社 Reuters News",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Reuters%20News.png"
     },
     {
-      "name": "Revolut",
+      "name": "英国银行 Revolut",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Revolut.png"
     },
     {
-      "name": "Ring",
+      "name": "智能门铃 Ring",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Ring.png"
     },
     {
-      "name": "Robinhood",
+      "name": "罗宾汉 Robinhood",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Robinhood.png"
     },
     {
-      "name": "Roblox",
+      "name": "罗布乐思 Roblox",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Roblox.png"
     },
     {
-      "name": "Rome2Rio",
+      "name": "出行规划 Rome2Rio",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Rome2Rio.png"
     },
     {
-      "name": "Royal Match",
+      "name": "皇室消除 Royal Match",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Royal%20Match.png"
     },
     {
@@ -1487,35 +1487,35 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Shadowrocket.png"
     },
     {
-      "name": "SHEIN",
+      "name": "希音 SHEIN",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/SHEIN.png"
     },
     {
-      "name": "Signal",
+      "name": "信号 Signal",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Signal.png"
     },
     {
-      "name": "sing-box",
+      "name": "代理 sing-box",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/sing-box.png"
     },
     {
-      "name": "SingaporeAir",
+      "name": "新加坡航空 SingaporeAir",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/SingaporeAir.png"
     },
     {
-      "name": "Skyscanner",
+      "name": "天巡 Skyscanner",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Skyscanner.png"
     },
     {
-      "name": "Slack",
+      "name": "办公通讯 Slack",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Slack.png"
     },
     {
-      "name": "Sleep Cycle",
+      "name": "睡眠 Sleep Cycle",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Sleep%20Cycle.png"
     },
     {
-      "name": "SmartThings",
+      "name": "智能家居 SmartThings",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/SmartThings.png"
     },
     {
@@ -1523,27 +1523,27 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Snapchat.png"
     },
     {
-      "name": "Snapseed",
+      "name": "修图 Snapseed",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Snapseed.png"
     },
     {
-      "name": "SofaScore",
+      "name": "足球比分 SofaScore",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/SofaScore.png"
     },
     {
-      "name": "Sonos",
+      "name": "音响 Sonos",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Sonos.png"
     },
     {
-      "name": "SoundCloud",
+      "name": "音云 SoundCloud",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/SoundCloud.png"
     },
     {
-      "name": "Spark Mail",
+      "name": "邮箱 Spark Mail",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Spark%20Mail.png"
     },
     {
-      "name": "Speedtest",
+      "name": "测速 Speedtest",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Speedtest.png"
     },
     {
@@ -1551,55 +1551,55 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Spotify.png"
     },
     {
-      "name": "Starbucks",
+      "name": "星巴克 Starbucks",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Starbucks.png"
     },
     {
-      "name": "Stardew Valley",
+      "name": "星露谷物语 Stardew Valley",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Stardew%20Valley.png"
     },
     {
-      "name": "Starling Bank",
+      "name": "英国银行 Starling Bank",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Starling%20Bank.png"
     },
     {
-      "name": "Stash",
+      "name": "代理 Stash",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Stash.png"
     },
     {
-      "name": "Strava",
+      "name": "运动 Strava",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Strava.png"
     },
     {
-      "name": "Stripe Dashboard",
+      "name": "支付后台 Stripe Dashboard",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Stripe%20Dashboard.png"
     },
     {
-      "name": "Subway Surfers",
+      "name": "地铁跑酷 Subway Surfers",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Subway%20Surfers.png"
     },
     {
-      "name": "Surfshark VPN",
+      "name": "鲨鱼VPN Surfshark VPN",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Surfshark%20VPN.png"
     },
     {
-      "name": "Surge 5",
+      "name": "浪涌 Surge 5",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Surge%205.png"
     },
     {
-      "name": "SwitchBot",
+      "name": "智能家居 SwitchBot",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/SwitchBot.png"
     },
     {
-      "name": "Tailscale",
+      "name": "组网 Tailscale",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Tailscale.png"
     },
     {
-      "name": "Tapo",
+      "name": "监控 Tapo",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Tapo.png"
     },
     {
-      "name": "Target",
+      "name": "塔吉特 Target",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Target.png"
     },
     {
@@ -1607,59 +1607,59 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Telegram.png"
     },
     {
-      "name": "Temple Run 2",
+      "name": "神庙逃亡 Temple Run 2",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Temple%20Run%202.png"
     },
     {
-      "name": "Temu",
+      "name": "拼多多海外版 Temu",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Temu.png"
     },
     {
-      "name": "Termius",
+      "name": "终端 Termius",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Termius.png"
     },
     {
-      "name": "Terraria",
+      "name": "泰拉瑞亚 Terraria",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Terraria.png"
     },
     {
-      "name": "The Athletic",
+      "name": "体育新闻 The Athletic",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/The%20Athletic.png"
     },
     {
-      "name": "The Guardian",
+      "name": "卫报 The Guardian",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/The%20Guardian.png"
     },
     {
-      "name": "The New York Times",
+      "name": "纽约时报 The New York Times",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/The%20New%20York%20Times.png"
     },
     {
-      "name": "The Sims FreePlay",
+      "name": "模拟人生 The Sims FreePlay",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/The%20Sims%20FreePlay.png"
     },
     {
-      "name": "The Wall Street Journal",
+      "name": "华尔街日报 The Wall Street Journal",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/The%20Wall%20Street%20Journal.png"
     },
     {
-      "name": "The Washington Post",
+      "name": "华盛顿邮报 The Washington Post",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/The%20Washington%20Post.png"
     },
     {
-      "name": "Things 3",
+      "name": "待办 Things 3",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Things%203.png"
     },
     {
-      "name": "Threads",
+      "name": "串 Threads",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Threads.png"
     },
     {
-      "name": "TickTick",
+      "name": "滴答清单 TickTick",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/TickTick.png"
     },
     {
-      "name": "Tidal",
+      "name": "高保真音乐 Tidal",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Tidal.png"
     },
     {
@@ -1667,31 +1667,31 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/TikTok.png"
     },
     {
-      "name": "TikTok Studio",
+      "name": "海外抖音创作 TikTok Studio",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/TikTok%20Studio.png"
     },
     {
-      "name": "Todoist",
+      "name": "待办 Todoist",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Todoist.png"
     },
     {
-      "name": "Too Good to Go",
+      "name": "食物拯救 Too Good to Go",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Too%20Good%20to%20Go.png"
     },
     {
-      "name": "Township",
+      "name": "梦想小镇 Township",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Township.png"
     },
     {
-      "name": "TradingView",
+      "name": "交易视图 TradingView",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/TradingView.png"
     },
     {
-      "name": "Transit",
+      "name": "公交 Transit",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Transit.png"
     },
     {
-      "name": "Trello",
+      "name": "看板 Trello",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Trello.png"
     },
     {
@@ -1699,15 +1699,15 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Trip.com.png"
     },
     {
-      "name": "Tripadvisor",
+      "name": "猫途鹰 Tripadvisor",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Tripadvisor.png"
     },
     {
-      "name": "Tumblr",
+      "name": "汤博乐 Tumblr",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Tumblr.png"
     },
     {
-      "name": "Twitch",
+      "name": "直播 Twitch",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Twitch.png"
     },
     {
@@ -1715,67 +1715,67 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Uber.png"
     },
     {
-      "name": "Uber Eats",
+      "name": "优步外卖 Uber Eats",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Uber%20Eats.png"
     },
     {
-      "name": "Udemy",
+      "name": "在线课程 Udemy",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Udemy.png"
     },
     {
-      "name": "UNIQLO",
+      "name": "优衣库 UNIQLO",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/UNIQLO.png"
     },
     {
-      "name": "United Airlines",
+      "name": "美联航 United Airlines",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/United%20Airlines.png"
     },
     {
-      "name": "UPS Mobile",
+      "name": "联合包裹 UPS Mobile",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/UPS%20Mobile.png"
     },
     {
-      "name": "USPS Mobile",
+      "name": "美国邮政 USPS Mobile",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/USPS%20Mobile.png"
     },
     {
-      "name": "V2Box",
+      "name": "代理 V2Box",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/V2Box.png"
     },
     {
-      "name": "Venmo",
+      "name": "支付 Venmo",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Venmo.png"
     },
     {
-      "name": "Viber",
+      "name": "乐聊 Viber",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Viber.png"
     },
     {
-      "name": "Videoleap",
+      "name": "视频剪辑 Videoleap",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Videoleap.png"
     },
     {
-      "name": "VLC",
+      "name": "播放器 VLC",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/VLC.png"
     },
     {
-      "name": "VN Video Editor",
+      "name": "视频剪辑 VN Video Editor",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/VN%20Video%20Editor.png"
     },
     {
-      "name": "VSCO",
+      "name": "滤镜 VSCO",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/VSCO.png"
     },
     {
-      "name": "Walmart",
+      "name": "沃尔玛 Walmart",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Walmart.png"
     },
     {
-      "name": "Waze",
+      "name": "导航 Waze",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Waze.png"
     },
     {
-      "name": "WeatherBug",
+      "name": "天气 WeatherBug",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/WeatherBug.png"
     },
     {
@@ -1783,51 +1783,51 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/WeChat.png"
     },
     {
-      "name": "WeChat Work",
+      "name": "企业微信 WeChat Work",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/WeChat%20Work.png"
     },
     {
-      "name": "Weverse",
+      "name": "韩流社区 Weverse",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Weverse.png"
     },
     {
-      "name": "WhatsApp",
+      "name": "即时通讯 WhatsApp",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/WhatsApp.png"
     },
     {
-      "name": "Wikipedia",
+      "name": "维基百科 Wikipedia",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Wikipedia.png"
     },
     {
-      "name": "Windscribe VPN",
+      "name": "VPN Windscribe VPN",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Windscribe%20VPN.png"
     },
     {
-      "name": "Windy",
+      "name": "风图 Windy",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Windy.png"
     },
     {
-      "name": "WireGuard",
+      "name": "VPN WireGuard",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/WireGuard.png"
     },
     {
-      "name": "Wise",
+      "name": "跨境汇款 Wise",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Wise.png"
     },
     {
-      "name": "WolframAlpha",
+      "name": "沃尔夫勒姆 WolframAlpha",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/WolframAlpha.png"
     },
     {
-      "name": "Wolt",
+      "name": "外卖 Wolt",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Wolt.png"
     },
     {
-      "name": "Working Copy",
+      "name": "代码 Working Copy",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Working%20Copy.png"
     },
     {
-      "name": "Wuthering Waves",
+      "name": "鸣潮 Wuthering Waves",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Wuthering%20Waves.png"
     },
     {
@@ -1835,11 +1835,11 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/X.png"
     },
     {
-      "name": "Yazio",
+      "name": "饮食记录 Yazio",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Yazio.png"
     },
     {
-      "name": "Yelp",
+      "name": "点评 Yelp",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Yelp.png"
     },
     {
@@ -1851,27 +1851,27 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/YouTube%20Music.png"
     },
     {
-      "name": "YouTube Studio",
+      "name": "油管创作 YouTube Studio",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/YouTube%20Studio.png"
     },
     {
-      "name": "ZARA",
+      "name": "飒拉 ZARA",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/ZARA.png"
     },
     {
-      "name": "Zelle",
+      "name": "转账 Zelle",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Zelle.png"
     },
     {
-      "name": "Zenless Zone Zero",
+      "name": "绝区零 Zenless Zone Zero",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Zenless%20Zone%20Zero.png"
     },
     {
-      "name": "ZeroTier One",
+      "name": "组网 ZeroTier One",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/ZeroTier%20One.png"
     },
     {
-      "name": "Zoom",
+      "name": "视频会议 Zoom",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/loon/app_icons/os1024px/Zoom.png"
     }
   ]
