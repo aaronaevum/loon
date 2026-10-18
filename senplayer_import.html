@@ -7,19 +7,16 @@
     <script>
         window.onload = function() {
             const params = new URLSearchParams(window.location.search);
-            const iconUrl = params.get('iconset');
+            const defaultIconUrl = "https://raw.githubusercontent.com/aaronaevum/loon/main/emby.json";
+            const iconUrl = params.get('iconset') || defaultIconUrl;
 
-            if (iconUrl) {
-                const senProtocol = "senplayer://importicon?iconset=" + encodeURIComponent(iconUrl);
-                window.location.href = senProtocol;
+            const senProtocol = "senplayer://importicon?iconset=" + encodeURIComponent(iconUrl);
+            window.location.href = senProtocol;
 
-                setTimeout(() => {
-                    document.getElementById('manual').style.display = 'block';
-                    document.getElementById('manual-btn').href = senProtocol;
-                }, 3000);
-            } else {
-                document.body.innerHTML = "<h3>参数错误：未找到图标包地址</h3>";
-            }
+            setTimeout(() => {
+                document.getElementById('manual').style.display = 'block';
+                document.getElementById('manual-btn').href = senProtocol;
+            }, 3000);
         };
     </script>
     <style>
