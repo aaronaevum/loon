@@ -4,4 +4,4 @@
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png
 
 [Script]
-generic script-path=https://raw.githubusercontent.com/你的用户名/仓库名/main/ippure.js, tag=IPPure检测, timeout=30, img-url=checkmark.shield.system
+generic script-path=https://raw.githubusercontent.com/aaronaevum/loon/refs/heads/main/plugins/ippure/ippure.js, tag=IPPure检测, timeout=30, img-url=checkmark.shield.system
