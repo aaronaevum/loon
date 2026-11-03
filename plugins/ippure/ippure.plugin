@@ -4,4 +4,4 @@
 #!icon=https://raw.githubusercontent.com/aaronaevum/loon/main/app_icons/cn144px/IPpure.png
 
 [Script]
-generic script-path=https://raw.githubusercontent.com/aaronaevum/loon/main/ippure.js, tag=IPPure检测, timeout=60, img-url=https://raw.githubusercontent.com/aaronaevum/loon/main/app_icons/cn144px/IPpure.png
+generic script-path=https://raw.githubusercontent.com/aaronaevum/loon/refs/heads/main/plugins/ippure/ippure.js, tag=IPPure检测, timeout=60, img-url=https://raw.githubusercontent.com/aaronaevum/loon/main/app_icons/cn144px/IPpure.png
