@@ -1,3 +1,4 @@
+# Zalo
 DOMAIN-SUFFIX,zalo.me
 DOMAIN-SUFFIX,zaloapp.com
 DOMAIN-SUFFIX,zalo.cloud
@@ -7,3 +8,12 @@ DOMAIN-SUFFIX,zdn.vn
 DOMAIN-SUFFIX,zadn.vn
 DOMAIN-SUFFIX,zingmp3.vn
 DOMAIN-KEYWORD,zalo
+# VNG / Zalo ASN
+IP-ASN,38244,no-resolve
+IP-ASN,132708,no-resolve
+IP-ASN,154105,no-resolve
+IP-ASN,150856,no-resolve
+IP-ASN,154106,no-resolve
+# zadn.vn 在 Viettel / VNPT 机房的网段
+IP-CIDR,171.244.25.0/24,no-resolve
+IP-CIDR,14.225.199.0/24,no-resolve
