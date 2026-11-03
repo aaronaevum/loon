@@ -6,6 +6,14 @@ const UA =
 const DISNEY_TOKEN = "ZGlzbmV5JmJyb3dzZXImMS4wLjA.Cu56AgSfBTDag5NiRA81oLHkDZfu5L3CKadnefEAY84";
 const COLOR = { green: "#1aa66b", red: "#e5484d", orange: "#e08a00", blue: "#1677ff", gray: "#8e8e93" };
 
+const CN = {
+  US: "美国", HK: "香港", JP: "日本", SG: "新加坡", TW: "台湾", KR: "韩国", GB: "英国", DE: "德国",
+  FR: "法国", CA: "加拿大", AU: "澳大利亚", NL: "荷兰", RU: "俄罗斯", IN: "印度", MY: "马来西亚",
+  TH: "泰国", VN: "越南", PH: "菲律宾", ID: "印度尼西亚", TR: "土耳其", AR: "阿根廷", BR: "巴西",
+  IT: "意大利", ES: "西班牙", CH: "瑞士", SE: "瑞典", MO: "澳门", CN: "中国", AE: "阿联酋",
+  IL: "以色列", PL: "波兰", MX: "墨西哥", CL: "智利", ZA: "南非", NG: "尼日利亚", EG: "埃及",
+};
+
 const data = { ippure: null, ippureErr: "", ipapi: null, scam: null, svc: {} };
 let finished = false;
 
@@ -19,6 +27,7 @@ const flag = (cc) =>
   cc && /^[A-Za-z]{2}$/.test(cc)
     ? String.fromCodePoint(...cc.toUpperCase().split("").map((c) => 0x1f1e6 + c.charCodeAt(0) - 65))
     : "🏳️";
+const cname = (cc, fallback) => CN[String(cc || "").toUpperCase()] || fallback || cc || "未知";
 
 function hget(h, name) {
   if (!h) return null;
@@ -86,7 +95,7 @@ async function getIppure() {
 
 async function getIpapi(ip) {
   const r = await call("get", {
-    url: `http://ip-api.com/json/${encodeURIComponent(ip)}?fields=status,message,country,countryCode,regionName,city,isp,org,as,mobile,proxy,hosting,query`,
+    url: `http://ip-api.com/json/${ip}?fields=status,message,country,countryCode,regionName,city,isp,org,as,mobile,proxy,hosting,query`,
   });
   try {
     const j = JSON.parse(r.body);
@@ -95,7 +104,7 @@ async function getIpapi(ip) {
 }
 
 async function getScam(ip) {
-  const r = await call("get", { url: `https://scamalytics.com/ip/${encodeURIComponent(ip)}` });
+  const r = await call("get", { url: `https://scamalytics.com/ip/${ip}` });
   const m = r.body && String(r.body).match(/Fraud Score:\s*(\d+)/i);
   if (m) data.scam = Number(m[1]);
 }
@@ -169,7 +178,9 @@ async function chatgpt() {
   const loc = t.body && (String(t.body).match(/^loc=(\w+)/m) || [])[1];
   const webOk = !!w.resp && !/unsupported_country/i.test(String(w.body || ""));
   const appOk = !!a.resp && !/vpn/i.test(String(a.body || ""));
-  const note = `Web ${webOk ? "✓" : "✗"} / App ${appOk ? "✓" : "✗"}，探测端点结果不代表登录后功能` + (loc ? `，出口 ${loc}` : "");
+  const note =
+    `Web ${webOk ? "✓" : "✗"} / App ${appOk ? "✓" : "✗"}（App 项靠页面关键词判断，可信度较低）` +
+    (loc ? `，出口 ${loc}` : "");
   if (webOk && appOk) return { state: "ok", text: "端点可达/地区支持", note };
   if (webOk || appOk) return { state: "warn", text: "部分可达", note };
   if (!w.resp && !a.resp) return { state: "fail", text: "无法连接", note: errText(w) };
@@ -233,14 +244,14 @@ function render() {
   const p = data.ippure;
   const ia = data.ipapi;
   const exitCC = String(p.countryCode || "").toUpperCase();
+  const ip = String(p.ip || "未知");
+  const place = [cname(exitCC, p.country), p.city].filter(Boolean).join(" ");
   let h = "";
 
   // 顶部
   h += gray(`节点 · ${node}`) + "<br>";
-  h += `${flag(exitCC)} ${esc([p.country, p.city].filter(Boolean).join(" "))} ${fc(p.isResidential ? COLOR.green : COLOR.orange, p.isResidential ? "住宅" : "非住宅")}<br>`;
-  h += `<font size="6"><b>${esc(p.ip || "未知")}</b></font><br>`;
-  h += `${flag(exitCC)} [${esc(exitCC || "??")}]<br>`;
-  h += gray([p.region, p.city].filter(Boolean).join(" · ")) + "<br>";
+  h += `${flag(exitCC)} ${esc(place)} ${fc(p.isResidential ? COLOR.green : COLOR.orange, p.isResidential ? "住宅" : "非住宅")}<br>`;
+  h += `<font size="${ip.length > 20 ? 4 : 6}"><b>${esc(ip)}</b></font><br>`;
   h += gray(`AS${p.asn || "?"} · ${p.asOrganization || ""}`) + "<br>";
 
   // IP 类型属性
@@ -313,9 +324,7 @@ function render() {
     "<br>" +
     gray(
       "说明：各数据源独立展示，不生成综合结论；评分分档为本脚本自定参考。可达性只代表探测端点可达，不代表账号可用或可播放。未接入 IPinfo / IP2Location / IPQS（需 API Key）。"
-    ) +
-    "<br>" +
-    gray(`节点：${node}`);
+    );
   return h;
 }
 
@@ -351,6 +360,7 @@ if (!node) {
   finished = true;
   $done({ title: "IPPure 检测", htmlMessage: "未选中节点<br>请在节点列表里长按某个节点再运行" });
 } else {
-  setTimeout(finish, DEADLINE_MS);
+  // 整体超时保护：环境不支持 setTimeout 时跳过，不影响其余功能
+  if (typeof setTimeout === "function") setTimeout(finish, DEADLINE_MS);
   main().then(finish, finish);
 }
