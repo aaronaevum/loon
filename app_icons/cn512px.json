@@ -7,10 +7,6 @@
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/app_icons/cn512px/1Aaron.png"
     },
     {
-      "name": "1alaia",
-      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/app_icons/cn512px/1alaia.png"
-    },
-    {
       "name": "农业银行 Agricultural Bank of China",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/app_icons/cn512px/Agricultural%20Bank%20of%20China.png"
     },
@@ -345,6 +341,10 @@
     {
       "name": "掌阅 iReader",
       "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/app_icons/cn512px/iReader.png"
+    },
+    {
+      "name": "纯 IPpure",
+      "url": "https://raw.githubusercontent.com/aaronaevum/loon/main/app_icons/cn512px/IPpure.png"
     },
     {
       "name": "京东 JD",
