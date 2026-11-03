@@ -1,7 +1,7 @@
 #!name=IPPure 节点检测
 #!desc=长按节点，检测该节点出口 IP 的纯净度（欺诈分、住宅/非住宅、耗时）
 #!author=Aaron
-#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png
+#!icon=https://raw.githubusercontent.com/aaronaevum/loon/main/app_icons/cn144px/IPpure.png
 
 [Script]
 generic script-path=https://raw.githubusercontent.com/aaronaevum/loon/refs/heads/main/plugins/ippure/ippure.js, tag=IPPure检测, timeout=60, img-url=checkmark.shield.system
