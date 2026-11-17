@@ -3,3 +3,12 @@
 DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,metaaiusercontent.com
 DOMAIN-SUFFIX,ai.meta.com
+# Meta ASN - 注意：不是 Muse 专属
+# AS32934 是 Meta 主 ASN，Facebook / Instagram / WhatsApp / Messenger / Threads 都在里面
+# 加这一行等于把所有 Meta 流量都按这条规则走，域名规则已够用的话可不加
+IP-ASN,32934,no-resolve
+# muse.ai 实测解析到的边缘 IP 所在 /24（共享边缘 IP，会随地点/时间变，仅作 IP 直连兜底）
+# 31.13.66.4 / 57.144.222.141 / 57.144.238.141
+IP-CIDR,31.13.66.0/24,no-resolve
+IP-CIDR,57.144.222.0/24,no-resolve
+IP-CIDR,57.144.238.0/24,no-resolve
