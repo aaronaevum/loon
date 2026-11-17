@@ -1,0 +1,5 @@
+# Muse
+# Loon 远程规则：订阅时 policy=你的策略组名，例如 PROXY / 节点选择 / 美国
+DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,metaaiusercontent.com
+DOMAIN-SUFFIX,ai.meta.com
